@@ -1,0 +1,20 @@
+# Work account, - the default config
+Host github.com
+   HostName github.com
+   User dmytro.kyiashko
+   IdentityFile ~/.ssh/id_rsa
+# personal account
+Host github.com-dk94  
+   HostName github.com
+   User dk94
+   IdentityFile ~/.ssh/id_rsa_home_use
+# bitbucket
+Host bitbucket.org:dmytro_kyiashko  
+   HostName bitbucket.org
+   User dmytro_kyiashko
+   IdentityFile ~/.ssh/id_rsa_home_use
+
+
+
+
+
